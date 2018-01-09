@@ -6,3 +6,7 @@ Supports Verilog files (*.v, *.V)
 Features include
  - Syntax Hightlighting
  - Code snippets
+
+Forked for [HDLProject](https://hdlproject.com)
+
+ 
